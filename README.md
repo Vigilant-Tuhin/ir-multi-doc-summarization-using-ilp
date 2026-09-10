@@ -72,4 +72,4 @@ See `requirements.txt` for the full list.
 
 ## Author
 
-22MT30013
+Tuhin Manik Biswas
